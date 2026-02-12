@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,43 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# MERN Task Dashboard
+
+A simple React task manager built with Vite. This app lets you view and toggle tasks as complete or incomplete.
+
+## Features
+
+- View a list of tasks
+- Mark tasks as completed or not completed
+- Responsive and clean UI
+
+## Getting Started
+
+1. **Install dependencies:**
+   ```
+   pnpm install
+   ```
+2. **Start the development server:**
+   ```
+   pnpm run dev
+   ```
+3. Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+## Project Structure
+
+- `src/App.jsx` – Main app component
+- `src/Components/Task.jsx` – Task display component
+- `src/main.jsx` – Entry point
+
+## Technologies Used
+
+- React
+- Vite
+- JavaScript
+- CSS
+
+## Acknowledgements
+
+Inspired by various task management tools and built as a learning project to explore the MERN stack capabilities.
+>>>>>>> c1b56b3ef2d8b945499731a099b296d618425b6f

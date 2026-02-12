@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "test",
+=======
+  "name": "plp-week3",
+>>>>>>> c1b56b3ef2d8b945499731a099b296d618425b6f
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +14,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@tailwindcss/postcss": "^4.1.18",
     "@tailwindcss/vite": "^4.1.18",
     "postcss": "^8.5.6",
@@ -28,5 +33,22 @@
     "globals": "^16.5.0",
     "rollup": "^4.57.1",
     "vite": "^7.3.1"
+=======
+    "@tailwindcss/vite": "^4.1.11",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tailwindcss": "^4.1.11"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.30.1",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^4.6.0",
+    "eslint": "^9.30.1",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.3.0",
+    "vite": "^7.0.4"
+>>>>>>> c1b56b3ef2d8b945499731a099b296d618425b6f
   }
 }
