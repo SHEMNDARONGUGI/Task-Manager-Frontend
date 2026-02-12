@@ -10,11 +10,8 @@ export default defineConfig([
     files: ['**/*.{js,jsx}'],
     extends: [
       js.configs.recommended,
-<<<<<<< HEAD
+
       reactHooks.configs.flat.recommended,
-=======
-      reactHooks.configs['recommended-latest'],
->>>>>>> c1b56b3ef2d8b945499731a099b296d618425b6f
       reactRefresh.configs.vite,
     ],
     languageOptions: {
